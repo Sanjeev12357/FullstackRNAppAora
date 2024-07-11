@@ -73,7 +73,7 @@ We welcome contributions to enhance Aora. To contribute:
 For any questions or suggestions, please reach out to [sanjeevsinghsaini48@gmail.com](mailto:sanjeevsinghsaini48@gmail.com).
 
 
-##ScreenShots
+## ScreenShots
 
 Sign up /  Login
 ![image](https://github.com/Sanjeev12357/FullstackRNAppAora/assets/124911392/1166eb78-7b1f-4314-a375-c8d373feef9f)
