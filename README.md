@@ -1,4 +1,4 @@
-Here's a beautifully structured README file for the Aora app:
+
 
 ---
 
